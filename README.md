@@ -6,7 +6,7 @@ A simple, clean, and responsive **Connect 4** game built using:
 - **Tailwind CSS** for styling
 - **Vanilla JavaScript** for game logic
 
-![Demo App](/static/assets/Connect4Demo.png)
+![Demo App](./static/assets/Connect4Demo.png)
 
 ---
 
