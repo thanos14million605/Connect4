@@ -25,15 +25,6 @@ A simple, clean, and responsive **Connect 4** game built using:
 
 ---
 
-## 📁 Project Structure
-
-connect4/
-├── index.html # Main UI
-├── script.js # Game logic
-└── README.md # Project documentation
-
----
-
 ## 🛠️ Setup & Usage
 
 1. **Clone the repository**
