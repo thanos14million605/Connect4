@@ -58,11 +58,3 @@ Built with ❤️ by Ebrima Gajaga
 If you like this project, consider giving it a star ⭐ on GitHub!
 
 ---
-
-If you want, I can make it even more professional with:
-
-- badges (build, license, stars)
-- screenshots
-- live demo link section
-
-Built with love 💖💖 by Ebrima Gajaga
